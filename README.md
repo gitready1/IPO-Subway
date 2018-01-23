@@ -1,7 +1,5 @@
 #Subway direction
 
-Question: How do I get to Subway?
-Listen to the question and 
 
 |Input	   |Process			|Output		|
 |----------|----------------------------|---------------|
